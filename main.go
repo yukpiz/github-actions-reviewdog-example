@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+var HOGE_1 = 1
+
 const (
 	HOGE_HOGE = "hogehoge"
 )
